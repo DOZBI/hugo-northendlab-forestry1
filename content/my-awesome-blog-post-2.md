@@ -1,10 +1,10 @@
 +++
-title = "My awesome second blog post"
-image = "/images/post/post-2.jpg"
-author = "John Doe"
-date = 2019-11-07T05:00:00Z
-description = "This is meta description"
+author = "N.G"
 categories = ["Design Tools"]
+date = 2022-09-04T05:00:00Z
+description = "développement web"
+image = "/images/ingenieur-developpeur-code-ordinateur-portable-tablette-developpement-multiplateforme-systemes-exploitation-multiplateformes-concept-environnements-logiciels-illustration-isolee-bleu-corail-rose_335657-2524.jpg"
+title = "Créations et locations des sites d'entreprises et e-commerce"
 type = "post"
 
 +++
