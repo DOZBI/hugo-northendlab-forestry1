@@ -14,7 +14,7 @@ POUR LES ENTREPRISES
 
 ### 1. Une adresse mail gratuite nuit à la crédibilité de votre entreprise
 
-Une telle adresse chez hotmail.com ou gmail.com est peut être bien pratique pour un utilisateur privé, mais elle ne convient pas à une entreprise. Comment quelqu’un peut-il croire au professionnalisme de votre entreprise alors que vous ne pouvez/voulez même pas payer le peu que coûte votre propre domaine, avec l’adresse mail qui y est associée ? À quel entrepreneur accorderiez-vous votre confiance boutiquecongo456@gmail.com ou boutique-congo.cg ?
+Une telle adresse chez hotmail.com ou gmail.com est peut être bien pratique pour un utilisateur privé, mais elle ne convient pas à une entreprise. Comment quelqu’un peut-il croire au professionnalisme de votre entreprise alors que vous ne pouvez/voulez même pas payer le peu que coûte votre propre domaine, avec l’adresse mail qui y est associée ? À quel entrepreneur accorderiez-vous votre confiance boutiquecongo456@gmail.com ou boutique@congo.cg ?
 
 ### 2. Chaque mail promeut votre marque
 
