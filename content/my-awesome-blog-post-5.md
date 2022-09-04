@@ -4,7 +4,7 @@ categories = []
 date = 2022-08-30T05:00:00Z
 description = "marketing digital"
 image = "/images/5-astuces-pour-faire-de-la-publicite-digitale-locale-un-accelerateur-de-business-pour-votre-pdv-4.jpg"
-title = "la publicité digitale locale, un accélérateur de business pour votre."
+title = "la publicité digitale locale, un accélérateur de business pour votre boutique et autres."
 type = "post"
 
 +++
