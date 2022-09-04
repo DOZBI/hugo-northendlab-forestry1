@@ -1,10 +1,10 @@
 +++
-title = "My awesome second blog post"
-image = "/images/post/post-3.jpg"
-author = "Mark Dinn"
-date = 2019-11-07T05:00:00Z
-description = "This is meta description"
-categories = ["Hugo"]
+author = "P.R"
+categories = []
+date = 2022-08-30T05:00:00Z
+description = "marketing digital"
+image = "/images/5-astuces-pour-faire-de-la-publicite-digitale-locale-un-accelerateur-de-business-pour-votre-pdv-4.jpg"
+title = "la publicité digitale locale, un accélérateur de business pour votre."
 type = "post"
 
 +++
