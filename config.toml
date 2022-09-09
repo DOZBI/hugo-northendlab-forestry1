@@ -27,7 +27,7 @@ logo = "images/logo.png"
 social = []
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
+image = "images/banner/Hom.jpg"
 title = ""
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
