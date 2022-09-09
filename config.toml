@@ -28,7 +28,7 @@ social = []
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "+242065119788"
+title = ""
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
