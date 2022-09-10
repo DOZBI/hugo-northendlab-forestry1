@@ -34,15 +34,15 @@ En tant que gérant d'entreprise, vous augmentez votre notoriété et vos chance
 
 ## Modèle d'application sur 200 .
 
-[_Projet de système de gestion d'une agence de gas_]()
+Système de gestion d'une agence de gaz
 
 ![](/images/gasmark_dashboard.jpg)
 
-Projet de gestion d'une salle de de sport.
+Projet de gestion pour une salle de sport.
 
 ![](/images/gym-management-system-project.jpg)
 
-Système de gestion de garage
+Système de gestion d'un garage 
 
 ![](/images/dashboard.jpg)
 
