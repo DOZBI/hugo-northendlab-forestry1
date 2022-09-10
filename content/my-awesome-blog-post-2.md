@@ -10,4 +10,6 @@ type = "post"
 +++
 Entrepreneurs, que vous soyez indépendant ou chef d'entreprise, vous savez qu'il vous faut **créer votre présence professionnelle sur internet** .
 
-En tant que gérant d'entreprise, vous augmentez votre notoriété et vos chances de réussite, en y étant présent à l'aide
+En tant que gérant d'entreprise, vous augmentez votre notoriété et vos chances de réussite, en y étant présent à l'aide d’un site web.
+
+## Nos sites web.
