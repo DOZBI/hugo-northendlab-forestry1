@@ -12,13 +12,13 @@ Aujourd’hui, la multiplication des achats en ligne provoque en parallèle la m
 
 5 MINUTES DE LECTURE
 
-1. [Qu’est-ce qu’une carte bancaire virtuelle ?](https://www.boursicoteur.co/carte-bancaire-virtuelle/#quest-ce-quune-carte-bancaire-virtuelle)
-2. [Comment fonctionne les cartes bancaires virtuelles ?](https://www.boursicoteur.co/carte-bancaire-virtuelle/#comment-fonctionne-les-cartes-bancaires-virtuelles)
-3. [Pourquoi utiliser une carte bancaire virtuelle ?](https://www.boursicoteur.co/carte-bancaire-virtuelle/#pourquoi-utiliser-une-carte-bancaire-virtuelle)
-4. [Quelles banques proposent des cartes bancaires virtuelles ?](https://www.boursicoteur.co/carte-bancaire-virtuelle/#quelles-banques-proposent-des-cartes-bancaires-virtuelles)
+1. Qu’est-ce qu’une carte bancaire virtuelle ?
+2. Comment fonctionne les cartes bancaires virtuelles ?
+3. Pourquoi utiliser une carte bancaire virtuelle ?
+4. Quelles banques proposent des cartes bancaires virtuelles ?
 5. 
-6. [Quelles sont les alternatives à la carte bancaire virtuelle ?](https://www.boursicoteur.co/carte-bancaire-virtuelle/#quelles-sont-les-alternatives-a-la-carte-bancaire-virtuelle)
-7. [L’e-carte bleue : Une technologie innovante, mais pas incontournable](https://www.boursicoteur.co/carte-bancaire-virtuelle/#le-carte-bleue-une-technologie-innovante-mais-pas-incontournable)
+6. Quelles sont les alternatives à la carte bancaire virtuelle ?
+7. L’e-carte bleue : Une technologie innovante, mais pas incontournable
 
 ## QU’EST-CE QU’UNE CARTE BANCAIRE VIRTUELLE ?
 
@@ -62,6 +62,6 @@ tage est que la e-carte bancaire peut être **utilisée de manière régulière*
 
 Les cartes bancaires virtuelles se sont démocratisées mais n’ont pas fait l’unanimité au sein des banques, et notamment les banques en ligne. Beaucoup de banques traditionnelles **ne la proposent pas encore**, ou alors à **des tarifs encore très élevés**.
 
-Du côté des banques en ligne et contrairement à ce que l’on pourrait penser, elles sont encore très en retard à ce niveau : seules [HelloBank](https://www.boursicoteur.co/hello-bank-avis/) et [Fortuneo](https://www.boursicoteur.co/hello-bank-ou-fortuneo/) proposent **un service de e-carte bleue**. Les autres semblent l’avoir délaissé de leur offre bancaire, ce qui paraît dommage.
+Du côté des banques en ligne et contrairement à ce que l’on pourrait penser, elles sont encore très en retard à ce niveau : seules [HelloBank](https://www.boursicoteur.co/hello-bank-avis/) et [Fortuneo](https://www.boursicoteur.co/hello-bank-ou-fortuneo/)  proposent **un service de e-carte bleue**. Les autres semblent l’avoir délaissé de leur offre bancaire, ce qui paraît dommage.
 
 Voici les principales banques qui la propose et leurs tarifs :
