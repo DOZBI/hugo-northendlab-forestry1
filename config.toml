@@ -23,7 +23,7 @@ description = "Agence web"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
-logo = "images/Elair.png"
+logo = "images/logo.svg"
 social = []
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
