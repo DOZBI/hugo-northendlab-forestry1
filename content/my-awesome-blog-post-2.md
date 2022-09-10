@@ -42,7 +42,7 @@ Projet de gestion pour une salle de sport.
 
 ![](/images/gym-management-system-project.jpg)
 
-Système de gestion d'un garage 
+Système de gestion d'un garage
 
 ![](/images/dashboard.jpg)
 
