@@ -34,7 +34,7 @@ En tant que gérant d'entreprise, vous augmentez votre notoriété et vos chance
 
 ## Modèle d'application sur 200 .
 
-_Projet de système de gestion d'une agence de gas_
+[_Projet de système de gestion d'une agence de gas_]()
 
 ![](/images/gasmark_dashboard.jpg)
 
@@ -42,7 +42,7 @@ Projet de gestion d'une salle de de sport.
 
 ![](/images/gym-management-system-project.jpg)
 
-Système de gestion de garage 
+Système de gestion de garage
 
 ![](/images/dashboard.jpg)
 
@@ -50,7 +50,7 @@ Système de gestion de garage
 
 ![](/images/php-cpms-patients.png)
 
-Système de gestion d'une blanchisserie 
+Système de gestion d'une blanchisserie
 
 ![](/images/php-ci-lms-transaction.png)
 
